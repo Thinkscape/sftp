@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:latest
 MAINTAINER Adrian Dvergsdal [atmoz.net]
 
 # - Install packages
